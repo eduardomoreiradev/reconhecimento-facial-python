@@ -18,6 +18,8 @@ def get_rostos():
         nomes_dos_rostos.append("Eduardo")
 
     henrique1 = reconhece_face("./img/henrique1.png")
+    
+    
     if(henrique1[0]):
         rostos_conhecidos.append(henrique1[1][0])
         nomes_dos_rostos.append("Henrique")
