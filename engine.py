@@ -17,9 +17,22 @@ def get_rostos():
         rostos_conhecidos.append(eduardo1[1][0])
         nomes_dos_rostos.append("Eduardo")
 
-    daiane1 = reconhece_face("./img/daiane1.png")
-    if(daiane1[0]):
-        rostos_conhecidos.append(daiane1[1][0])
-        nomes_dos_rostos.append("Daiane")
+    henrique1 = reconhece_face("./img/henrique1.png")
+    if(henrique1[0]):
+        rostos_conhecidos.append(henrique1[1][0])
+        nomes_dos_rostos.append("Henrique")
+        
+
+
+        bruno1 = reconhece_face("./img/bruno1.png")
+    if(bruno1[0]):
+        rostos_conhecidos.append(bruno1[1][0])
+        nomes_dos_rostos.append("Bruno Okazava")
     
+        rodrigo1 = reconhece_face("./img/rodrigo1.png")
+    if(rodrigo1[0]):
+        rostos_conhecidos.append(rodrigo1[1][0])
+        nomes_dos_rostos.append("Rodrigo")
+
+
     return rostos_conhecidos, nomes_dos_rostos
