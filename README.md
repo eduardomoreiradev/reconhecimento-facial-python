@@ -6,4 +6,13 @@
 
 # Sobre o projeto
 
-<p>em breve será atualizado !</p>
+<p> Este projeto foi utilizado como Trabalho Final da UC (Unidade Curricular) de IA Ministrada da UNISUL Pedra Branca !
+
+
+# Alunos
+  
+  Eduardo Moreira
+  Bruno Okazava
+  Bruno Martins
+  Henrique Goffi
+  Rodrigo Vilhena
